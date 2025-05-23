@@ -1,3 +1,1 @@
-```markdown
-![Scratchpad](./scratchpad.png)
-```  
+![Scratchpad](https://github.com/thapar25/agents_kt/blob/main/scratchpad.png)
